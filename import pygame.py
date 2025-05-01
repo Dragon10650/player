@@ -8,7 +8,7 @@ volume = 0.5
 pygame.mixer.music.set_volume(volume)
 
 # Загрузить музыкальный файл
-filename = 'C:/Users/drago/Desktop/kazakhstan-ugrozhaet-nam-bombardirovkoi.mp3'
+filename = 'C:/Users/drago/Desktop/kazakhstan-ugrozhaet-nam-bombardirovkoi.mp3' #Расположение музыкального файла
 pygame.mixer.music.load(filename)
 
 # Воспроизвести музыку
